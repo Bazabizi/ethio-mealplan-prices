@@ -1,0 +1,2 @@
+Andrée, B. P. J. (2021). Monthly food price estimates by product and market (Version 2026-10-05). ETH_2021_RTFP_v02_M. Washington, DC: World Bank Microdata Library. https://doi.org/10.48529/2ZH0-JF55 License: CC BY 4.0 (World Bank dataset terms of use; Microdata Library access type: open).
+Prices: Addis Ababa Trade Bureau (http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser). Basis: 2026-10-15 owner go-ahead on public government data (no terms, robots 404; Bureau emailed 2026-10-14): docs/outreach/clearance-aa-trade-bureau-2026-10-15.md

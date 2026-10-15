@@ -1,0 +1,17 @@
+{
+  "file": "prices.json",
+  "sha256": "6883c3570380c207ec7c460c312358c13581d5a97430964b7d746d911ad69aa0",
+  "etag": "\"6883c3570380c207ec7c460c312358c1\"",
+  "contentHash": "2105bce24fd897ac4253b8f0c6449d24e77183818715400ea0abf09dad86a5c2",
+  "bytes": 61103,
+  "generatedAt": "2026-10-15T10:04:17Z",
+  "today": "2026-10-15",
+  "fixture": true,
+  "prices": 169,
+  "stale": 1,
+  "bySourceKind": {
+    "store": 105,
+    "fixture": 63,
+    "wb": 1
+  }
+}
