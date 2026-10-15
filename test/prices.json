@@ -1032,7 +1032,7 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 190,
+      "priceEtb": 200,
       "observedOn": "2026-10-14",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
@@ -1045,11 +1045,11 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 210,
-      "observedOn": "2026-10-02",
+      "priceEtb": 200,
+      "observedOn": "2026-10-14",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
-      "place": null,
+      "place": "subcity_lideta",
       "stale": false
     },
     {
@@ -1695,7 +1695,7 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 95,
+      "priceEtb": 97.5,
       "observedOn": "2026-10-14",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
@@ -2210,6 +2210,6 @@
       "stale": false
     }
   ],
-  "generatedAt": "2026-10-15T10:04:17Z",
+  "generatedAt": "2026-10-15T21:46:16Z",
   "feedVersion": 1
 }
