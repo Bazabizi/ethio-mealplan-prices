@@ -1,16 +1,16 @@
 {
   "file": "prices.json",
-  "sha256": "83eb57e3e59303d7dfcf36da2a1e4c98bc3b0a7b09af186b8575aeb085d0f14f",
-  "etag": "\"83eb57e3e59303d7dfcf36da2a1e4c98\"",
-  "contentHash": "de1fef7b3b0610aaf658da7fa8e3fb5f4ab94514bb3209ec7c973753d4b7d86a",
-  "bytes": 61106,
-  "generatedAt": "2026-10-19T22:18:00Z",
-  "today": "2026-10-20",
+  "sha256": "bf3a1b00b507c9e7a21bb11779454f1ce62f989758e0ba8345b4c6dcc00702e3",
+  "etag": "\"bf3a1b00b507c9e7a21bb11779454f1c\"",
+  "contentHash": "641a5625f07ab435904b5c873a493a1d3913f9da452c7e703bee48bbf392bc30",
+  "bytes": 60715,
+  "generatedAt": "2026-10-20T21:33:29Z",
+  "today": "2026-10-21",
   "fixture": true,
-  "prices": 169,
+  "prices": 168,
   "stale": 1,
   "bySourceKind": {
-    "store": 105,
+    "store": 104,
     "fixture": 63,
     "wb": 1
   }
