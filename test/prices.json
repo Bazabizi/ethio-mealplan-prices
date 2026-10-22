@@ -96,7 +96,7 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 566.67,
+      "priceEtb": 558.34,
       "observedOn": "2026-10-21",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
@@ -525,7 +525,7 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 143.33,
+      "priceEtb": 141.67,
       "observedOn": "2026-10-21",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
@@ -1084,7 +1084,7 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 220,
+      "priceEtb": 235,
       "observedOn": "2026-10-21",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
@@ -1149,7 +1149,7 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 170,
+      "priceEtb": 160,
       "observedOn": "2026-10-21",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
@@ -2020,11 +2020,11 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 55.84,
-      "observedOn": "2026-10-09",
+      "priceEtb": 41.67,
+      "observedOn": "2026-10-21",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
-      "place": null,
+      "place": "subcity_arada",
       "stale": false
     },
     {
@@ -2197,6 +2197,6 @@
       "stale": false
     }
   ],
-  "generatedAt": "2026-10-21T21:35:25Z",
+  "generatedAt": "2026-10-22T21:29:46Z",
   "feedVersion": 1
 }
