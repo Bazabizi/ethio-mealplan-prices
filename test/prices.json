@@ -18,8 +18,8 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 533.33,
-      "observedOn": "2026-10-30",
+      "priceEtb": 516.67,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -31,8 +31,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 513.34,
-      "observedOn": "2026-10-30",
+      "priceEtb": 496.67,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -45,7 +45,7 @@
       "buyUnit": "kg",
       "buyQty": 1,
       "priceEtb": 140,
-      "observedOn": "2026-10-30",
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -57,8 +57,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 150,
-      "observedOn": "2026-10-30",
+      "priceEtb": 143.33,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -75,7 +75,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "ayib",
@@ -83,7 +83,7 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 550,
+      "priceEtb": 566.67,
       "observedOn": "2026-10-30",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
@@ -96,8 +96,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 550,
-      "observedOn": "2026-10-30",
+      "priceEtb": 700,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -110,7 +110,7 @@
       "buyUnit": "kg",
       "buyQty": 1,
       "priceEtb": 90,
-      "observedOn": "2026-10-30",
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -122,8 +122,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 93.33,
-      "observedOn": "2026-10-30",
+      "priceEtb": 96.67,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -140,7 +140,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "beef_lean",
@@ -148,8 +148,8 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 2133.34,
-      "observedOn": "2026-10-29",
+      "priceEtb": 2033.34,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -161,8 +161,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 2041.66,
-      "observedOn": "2026-10-26",
+      "priceEtb": 2125,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -179,7 +179,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "beef_minced",
@@ -192,7 +192,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "beef_minced",
@@ -205,7 +205,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "beef_stew",
@@ -213,8 +213,8 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 1600,
-      "observedOn": "2026-10-29",
+      "priceEtb": 1583.34,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -226,8 +226,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 1687.5,
-      "observedOn": "2026-10-26",
+      "priceEtb": 1683.34,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -244,7 +244,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "beetroot",
@@ -253,7 +253,7 @@
       "buyUnit": "kg",
       "buyQty": 1,
       "priceEtb": 90,
-      "observedOn": "2026-10-30",
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -266,7 +266,7 @@
       "buyUnit": "kg",
       "buyQty": 1,
       "priceEtb": 80,
-      "observedOn": "2026-10-30",
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -283,7 +283,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "black_pepper",
@@ -296,7 +296,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "bread_roll",
@@ -309,7 +309,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "bread_roll",
@@ -322,7 +322,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "brown_lentil",
@@ -330,8 +330,8 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 280,
-      "observedOn": "2026-10-30",
+      "priceEtb": 290,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -343,8 +343,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 290,
-      "observedOn": "2026-10-30",
+      "priceEtb": 280,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -361,7 +361,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "butter",
@@ -369,8 +369,8 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 1633.34,
-      "observedOn": "2026-10-30",
+      "priceEtb": 1616.66,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -383,7 +383,7 @@
       "buyUnit": "kg",
       "buyQty": 1,
       "priceEtb": 1600,
-      "observedOn": "2026-10-29",
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -396,7 +396,7 @@
       "buyUnit": "piece",
       "buyQty": 1,
       "priceEtb": 70,
-      "observedOn": "2026-10-30",
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -408,8 +408,8 @@
       "outlet": "suk",
       "buyUnit": "piece",
       "buyQty": 1,
-      "priceEtb": 67.5,
-      "observedOn": "2026-10-30",
+      "priceEtb": 83.33,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -421,8 +421,8 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 78.34,
-      "observedOn": "2026-10-30",
+      "priceEtb": 70,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -434,8 +434,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 73.33,
-      "observedOn": "2026-10-30",
+      "priceEtb": 83.33,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -447,8 +447,8 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 178.33,
-      "observedOn": "2026-10-30",
+      "priceEtb": 185,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -461,7 +461,7 @@
       "buyUnit": "kg",
       "buyQty": 1,
       "priceEtb": 200,
-      "observedOn": "2026-10-30",
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -478,7 +478,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "chicken_whole",
@@ -500,7 +500,7 @@
       "buyUnit": "piece",
       "buyQty": 1,
       "priceEtb": 1550,
-      "observedOn": "2026-10-30",
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": "subcity_bole",
@@ -517,7 +517,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "chickpeas",
@@ -526,7 +526,7 @@
       "buyUnit": "kg",
       "buyQty": 1,
       "priceEtb": 150,
-      "observedOn": "2026-10-30",
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -538,8 +538,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 142.08,
-      "observedOn": "2026-10-30",
+      "priceEtb": 143.33,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -551,8 +551,8 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 1300,
-      "observedOn": "2026-10-30",
+      "priceEtb": 1283.33,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -564,8 +564,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 1416.66,
-      "observedOn": "2026-10-30",
+      "priceEtb": 1500,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -582,7 +582,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "cooking_oil_sunflower",
@@ -590,8 +590,8 @@
       "outlet": "open_market",
       "buyUnit": "l",
       "buyQty": 3,
-      "priceEtb": 1275,
-      "observedOn": "2026-10-30",
+      "priceEtb": 1283.34,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -604,7 +604,7 @@
       "buyUnit": "l",
       "buyQty": 5,
       "priceEtb": 1900,
-      "observedOn": "2026-10-30",
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -621,7 +621,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "cooking_oil_sunflower",
@@ -629,8 +629,8 @@
       "outlet": "suk",
       "buyUnit": "l",
       "buyQty": 3,
-      "priceEtb": 1257.71,
-      "observedOn": "2026-10-30",
+      "priceEtb": 1285,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -642,8 +642,8 @@
       "outlet": "suk",
       "buyUnit": "l",
       "buyQty": 5,
-      "priceEtb": 1897.5,
-      "observedOn": "2026-10-30",
+      "priceEtb": 1910,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -660,7 +660,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "cracked_wheat",
@@ -673,7 +673,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "cucumber",
@@ -682,7 +682,7 @@
       "buyUnit": "kg",
       "buyQty": 1,
       "priceEtb": 200,
-      "observedOn": "2026-10-30",
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -694,8 +694,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 202.5,
-      "observedOn": "2026-10-30",
+      "priceEtb": 208.33,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -712,7 +712,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "egg",
@@ -720,8 +720,8 @@
       "outlet": "open_market",
       "buyUnit": "piece",
       "buyQty": 1,
-      "priceEtb": 24.16,
-      "observedOn": "2026-10-30",
+      "priceEtb": 24,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -733,8 +733,8 @@
       "outlet": "suk",
       "buyUnit": "piece",
       "buyQty": 1,
-      "priceEtb": 23.91,
-      "observedOn": "2026-10-30",
+      "priceEtb": 24.16,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -746,8 +746,8 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 113.33,
-      "observedOn": "2026-10-30",
+      "priceEtb": 100,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -760,7 +760,7 @@
       "buyUnit": "kg",
       "buyQty": 1,
       "priceEtb": 100,
-      "observedOn": "2026-10-30",
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -777,7 +777,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "fava_beans_canned",
@@ -790,7 +790,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "fava_beans_canned",
@@ -803,7 +803,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "fava_beans_dried",
@@ -811,8 +811,8 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 155,
-      "observedOn": "2026-10-30",
+      "priceEtb": 156.67,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -824,8 +824,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 156.25,
-      "observedOn": "2026-10-29",
+      "priceEtb": 150.83,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -838,7 +838,7 @@
       "buyUnit": "kg",
       "buyQty": 1,
       "priceEtb": 180,
-      "observedOn": "2026-10-30",
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -850,8 +850,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 208.33,
-      "observedOn": "2026-10-30",
+      "priceEtb": 175,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -868,7 +868,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "flaxseed",
@@ -876,8 +876,8 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 436.66,
-      "observedOn": "2026-10-30",
+      "priceEtb": 446.66,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -889,8 +889,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 444.16,
-      "observedOn": "2026-10-30",
+      "priceEtb": 463.34,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -907,7 +907,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "garlic",
@@ -915,8 +915,8 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 248.33,
-      "observedOn": "2026-10-30",
+      "priceEtb": 250,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -928,8 +928,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 266.67,
-      "observedOn": "2026-10-30",
+      "priceEtb": 300,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -946,7 +946,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "ginger",
@@ -955,7 +955,7 @@
       "buyUnit": "kg",
       "buyQty": 1,
       "priceEtb": 150,
-      "observedOn": "2026-10-30",
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -967,8 +967,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 169.79,
-      "observedOn": "2026-10-30",
+      "priceEtb": 163.33,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -980,8 +980,8 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 4200,
-      "observedOn": "2026-10-30",
+      "priceEtb": 4333.33,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": "saris",
@@ -993,8 +993,8 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 146.67,
-      "observedOn": "2026-10-30",
+      "priceEtb": 150,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1006,8 +1006,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 140,
-      "observedOn": "2026-10-30",
+      "priceEtb": 153.33,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1024,7 +1024,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "green_chili",
@@ -1032,8 +1032,8 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 180,
-      "observedOn": "2026-10-30",
+      "priceEtb": 170,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1063,7 +1063,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "green_pepper",
@@ -1076,7 +1076,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "haricot_beans",
@@ -1085,7 +1085,7 @@
       "buyUnit": "kg",
       "buyQty": 1,
       "priceEtb": 255,
-      "observedOn": "2026-10-30",
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1098,7 +1098,7 @@
       "buyUnit": "kg",
       "buyQty": 1,
       "priceEtb": 250,
-      "observedOn": "2026-10-30",
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1123,8 +1123,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 1058.34,
-      "observedOn": "2026-10-26",
+      "priceEtb": 1100,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1141,7 +1141,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "injera_teff",
@@ -1154,7 +1154,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "kidney_beans",
@@ -1163,7 +1163,7 @@
       "buyUnit": "kg",
       "buyQty": 1,
       "priceEtb": 190,
-      "observedOn": "2026-10-30",
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1176,7 +1176,7 @@
       "buyUnit": "kg",
       "buyQty": 1,
       "priceEtb": 230,
-      "observedOn": "2026-10-30",
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1193,7 +1193,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "korerima",
@@ -1201,8 +1201,8 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 1866.67,
-      "observedOn": "2026-10-30",
+      "priceEtb": 1833.33,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1214,8 +1214,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 1647.91,
-      "observedOn": "2026-10-30",
+      "priceEtb": 1650,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1232,7 +1232,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "lemon",
@@ -1240,8 +1240,8 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 173.33,
-      "observedOn": "2026-10-30",
+      "priceEtb": 180,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1258,7 +1258,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "lemon",
@@ -1266,8 +1266,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 178.33,
-      "observedOn": "2026-10-30",
+      "priceEtb": 176.67,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1280,7 +1280,7 @@
       "buyUnit": "kg",
       "buyQty": 1,
       "priceEtb": 150,
-      "observedOn": "2026-10-30",
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1292,8 +1292,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 158.33,
-      "observedOn": "2026-10-26",
+      "priceEtb": 143.33,
+      "observedOn": "2026-10-29",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1306,7 +1306,7 @@
       "buyUnit": "l",
       "buyQty": 1,
       "priceEtb": 180,
-      "observedOn": "2026-10-30",
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1318,7 +1318,7 @@
       "outlet": "suk",
       "buyUnit": "l",
       "buyQty": 1,
-      "priceEtb": 176.67,
+      "priceEtb": 178.33,
       "observedOn": "2026-10-29",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
@@ -1336,7 +1336,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "mushroom",
@@ -1349,7 +1349,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "mustard_seed",
@@ -1362,7 +1362,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "nigella_seed",
@@ -1370,8 +1370,8 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 825,
-      "observedOn": "2026-10-30",
+      "priceEtb": 833.34,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1383,8 +1383,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 798.34,
-      "observedOn": "2026-10-30",
+      "priceEtb": 861.66,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1401,7 +1401,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "oats",
@@ -1414,7 +1414,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "oats",
@@ -1427,7 +1427,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "orange",
@@ -1435,8 +1435,8 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 223.33,
-      "observedOn": "2026-10-30",
+      "priceEtb": 233.33,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1448,8 +1448,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 206.67,
-      "observedOn": "2026-10-30",
+      "priceEtb": 250,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1462,7 +1462,7 @@
       "buyUnit": "kg",
       "buyQty": 1,
       "priceEtb": 80,
-      "observedOn": "2026-10-30",
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1474,8 +1474,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 82.5,
-      "observedOn": "2026-10-30",
+      "priceEtb": 76.67,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1488,7 +1488,7 @@
       "buyUnit": "kg",
       "buyQty": 1,
       "priceEtb": 175,
-      "observedOn": "2026-10-30",
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1505,7 +1505,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "pasta_macaroni",
@@ -1513,8 +1513,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 177.5,
-      "observedOn": "2026-10-30",
+      "priceEtb": 180,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1531,7 +1531,7 @@
       "source": "wb:addis_ababa",
       "isEstimate": true,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "pasta_spaghetti",
@@ -1540,7 +1540,7 @@
       "buyUnit": "pack",
       "buyQty": 1,
       "priceEtb": 120,
-      "observedOn": "2026-10-30",
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1553,7 +1553,7 @@
       "buyUnit": "pack",
       "buyQty": 1,
       "priceEtb": 119.16,
-      "observedOn": "2026-10-30",
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1570,7 +1570,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "peanut_butter",
@@ -1583,7 +1583,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "pineapple",
@@ -1591,8 +1591,8 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 163.33,
-      "observedOn": "2026-10-30",
+      "priceEtb": 156.67,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1604,8 +1604,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 195,
-      "observedOn": "2026-10-29",
+      "priceEtb": 188.33,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1617,8 +1617,8 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 50,
-      "observedOn": "2026-10-30",
+      "priceEtb": 50.84,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1630,8 +1630,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 50,
-      "observedOn": "2026-10-30",
+      "priceEtb": 56.67,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1648,7 +1648,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "quanta",
@@ -1661,7 +1661,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "red_lentil",
@@ -1670,7 +1670,7 @@
       "buyUnit": "kg",
       "buyQty": 1,
       "priceEtb": 290,
-      "observedOn": "2026-10-30",
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1682,8 +1682,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 263.33,
-      "observedOn": "2026-10-30",
+      "priceEtb": 275,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1695,8 +1695,8 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 92.5,
-      "observedOn": "2026-10-30",
+      "priceEtb": 90,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1726,7 +1726,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "rice",
@@ -1734,8 +1734,8 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 146.67,
-      "observedOn": "2026-10-30",
+      "priceEtb": 150,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1747,8 +1747,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 144.17,
-      "observedOn": "2026-10-30",
+      "priceEtb": 147.5,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1765,7 +1765,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "salt",
@@ -1778,7 +1778,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "sesame_seeds",
@@ -1791,7 +1791,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "sesame_seeds",
@@ -1799,8 +1799,8 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 316.66,
-      "observedOn": "2026-10-30",
+      "priceEtb": 325,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1812,8 +1812,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 300,
-      "observedOn": "2026-10-30",
+      "priceEtb": 350,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1830,7 +1830,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "shiro_powder_nech",
@@ -1843,7 +1843,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "sorghum_flour",
@@ -1856,7 +1856,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "split_peas_yellow",
@@ -1864,8 +1864,8 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 225,
-      "observedOn": "2026-10-30",
+      "priceEtb": 230,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1877,8 +1877,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 217.5,
-      "observedOn": "2026-10-30",
+      "priceEtb": 210,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1891,7 +1891,7 @@
       "buyUnit": "kg",
       "buyQty": 1,
       "priceEtb": 200,
-      "observedOn": "2026-10-30",
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1903,8 +1903,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 198.33,
-      "observedOn": "2026-10-30",
+      "priceEtb": 196.67,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1921,7 +1921,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "sunflower_seeds",
@@ -1930,7 +1930,7 @@
       "buyUnit": "kg",
       "buyQty": 1,
       "priceEtb": 250,
-      "observedOn": "2026-10-30",
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1942,8 +1942,8 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 261.66,
-      "observedOn": "2026-10-30",
+      "priceEtb": 275,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -1960,7 +1960,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "swiss_chard",
@@ -1973,7 +1973,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "swiss_chard",
@@ -1981,8 +1981,8 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 53.33,
-      "observedOn": "2026-10-30",
+      "priceEtb": 50,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": "atkilt_lafto",
@@ -1999,7 +1999,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "teff_flour_white",
@@ -2012,7 +2012,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "tomato",
@@ -2020,8 +2020,8 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 46.67,
-      "observedOn": "2026-10-30",
+      "priceEtb": 45,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -2051,7 +2051,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "tomato_paste",
@@ -2077,7 +2077,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "tuna_canned",
@@ -2090,7 +2090,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "turmeric",
@@ -2103,7 +2103,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "watermelon",
@@ -2111,8 +2111,8 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 95,
-      "observedOn": "2026-10-30",
+      "priceEtb": 93.33,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -2125,7 +2125,7 @@
       "buyUnit": "kg",
       "buyQty": 1,
       "priceEtb": 106.67,
-      "observedOn": "2026-10-30",
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -2142,7 +2142,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "wheat_flour",
@@ -2150,8 +2150,8 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 146.67,
-      "observedOn": "2026-10-30",
+      "priceEtb": 143.33,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -2164,7 +2164,7 @@
       "buyUnit": "kg",
       "buyQty": 1,
       "priceEtb": 147.5,
-      "observedOn": "2026-10-30",
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -2181,7 +2181,7 @@
       "source": "fixture:fake",
       "isEstimate": false,
       "place": null,
-      "stale": false
+      "stale": true
     },
     {
       "ingredientId": "zucchini",
@@ -2189,8 +2189,8 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 136.67,
-      "observedOn": "2026-10-30",
+      "priceEtb": 140,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -2202,14 +2202,14 @@
       "outlet": "suk",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 126.67,
-      "observedOn": "2026-10-30",
+      "priceEtb": 150,
+      "observedOn": "2026-10-31",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
       "stale": false
     }
   ],
-  "generatedAt": "2026-10-30T22:13:42Z",
+  "generatedAt": "2026-10-31T21:27:01Z",
   "feedVersion": 1
 }
