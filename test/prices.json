@@ -1240,7 +1240,7 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 200,
+      "priceEtb": 196.67,
       "observedOn": "2026-11-07",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
@@ -1370,8 +1370,8 @@
       "outlet": "open_market",
       "buyUnit": "kg",
       "buyQty": 1,
-      "priceEtb": 833.34,
-      "observedOn": "2026-11-06",
+      "priceEtb": 866.67,
+      "observedOn": "2026-11-07",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -2210,6 +2210,6 @@
       "stale": false
     }
   ],
-  "generatedAt": "2026-11-07T21:44:11Z",
+  "generatedAt": "2026-11-08T21:58:15Z",
   "feedVersion": 1
 }
