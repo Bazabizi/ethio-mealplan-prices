@@ -487,7 +487,7 @@
       "buyUnit": "piece",
       "buyQty": 1,
       "priceEtb": 1300,
-      "observedOn": "2026-11-11",
+      "observedOn": "2026-11-14",
       "source": "store:aa_trade_bureau:http://aaminfo.gov.et/DailyMarket/UserDailyPriceShow/ForExternalUser",
       "isEstimate": false,
       "place": null,
@@ -2210,6 +2210,6 @@
       "stale": false
     }
   ],
-  "generatedAt": "2026-11-14T22:16:42Z",
+  "generatedAt": "2026-11-15T22:45:00Z",
   "feedVersion": 1
 }
